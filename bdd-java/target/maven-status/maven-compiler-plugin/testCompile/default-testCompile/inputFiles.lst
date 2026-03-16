@@ -1,2 +1,5 @@
+/workspaces/Lab-BDD/bdd-java/src/test/java/pages/AddRemoveElementsPage.java
+/workspaces/Lab-BDD/bdd-java/src/test/java/runners/AddRemoveElementsRunner.java
 /workspaces/Lab-BDD/bdd-java/src/test/java/runners/TestRunner.java
 /workspaces/Lab-BDD/bdd-java/src/test/java/steps/SearchSteps.java
+/workspaces/Lab-BDD/bdd-java/src/test/java/steps/src/test/java/steps/AddRemoveElementsSteps.java

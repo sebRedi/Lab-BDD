@@ -1,2 +1,5 @@
+runners/AddRemoveElementsRunner.class
 runners/TestRunner.class
 steps/SearchSteps.class
+steps/AddRemoveElementsSteps.class
+pages/AddRemoveElementsPage.class

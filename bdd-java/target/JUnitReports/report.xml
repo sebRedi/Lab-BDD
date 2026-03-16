@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.484">
-    <testcase classname="Google Search" name="Search for a term" time="4.231">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="17.626">
+    <testcase classname="Add and Remove Elements" name="Add a delete button and remove it" time="13.423">
+        <system-out><![CDATA[Given I am on the Add Remove Elements page..................................passed
+When I click the Add Element button.........................................passed
+Then I should see a Delete button...........................................passed
+When I click the Delete button..............................................passed
+Then I should not see any Delete button.....................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Google Search" name="Search for a term" time="3.95">
         <system-out><![CDATA[Given I am on the Google search page........................................passed
 When I search for "GitHub"..................................................passed
 Then I should see "GitHub" in the results...................................passed

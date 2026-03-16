@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.18">
+    <testcase classname="Add and Remove Elements" name="Add a delete button and remove it" time="12.137">
+        <system-out><![CDATA[Given I am on the Add Remove Elements page..................................passed
+When I click the Add Element button.........................................passed
+Then I should see a Delete button...........................................passed
+When I click the Delete button..............................................passed
+Then I should not see any Delete button.....................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
